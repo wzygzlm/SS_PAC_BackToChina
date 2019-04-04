@@ -1,2 +1,2 @@
 # SS_PAC_BackToChina
-My own pac file used to connect back to China.
+这个project主要用来存放我用于连接国内SS服务器的gfwlist.js文件。
